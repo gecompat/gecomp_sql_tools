@@ -1,2 +1,2 @@
-# sql_tools_public
+# gecomp_sql_tools
 Some tools for ms sql server
