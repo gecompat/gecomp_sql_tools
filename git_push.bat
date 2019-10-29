@@ -3,11 +3,12 @@ git add .
 echo.
 git status
 echo.
-pause
+echo.
 
 set /p msg="Enter Commit Message: "
 
 git commit -m "%msg%"
 git push
+echo.
 echo.
 pause
