@@ -1,3 +1,8 @@
+@echo off
 git add .
-git commit -m "push.bat"
+set /p msg="Enter Commit Message: "
+
+git commit -m "%msg%"
 git push
+echo.
+pause
