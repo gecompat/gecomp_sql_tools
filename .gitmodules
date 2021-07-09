@@ -1,0 +1,3 @@
+[submodule "SQL-Repositories/arvindshmicrosoft/SQLScriptDomSamples"]
+	path = SQL-Repositories/arvindshmicrosoft/SQLScriptDomSamples
+	url = https://github.com/arvindshmicrosoft/SQLScriptDomSamples
